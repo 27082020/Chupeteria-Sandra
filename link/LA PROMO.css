@@ -1,0 +1,234 @@
+
+   body{
+       background: #DB7093;
+   }
+   
+   
+   
+   
+   .caja{ 
+        
+        border: 2px solid black;
+        border-radius: .9rem;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:400%;
+        background-color: greenyellow;
+         font: bold 40px Tahoma;
+         width: 60%;
+           transition: all 0.5s linear;
+         cursor: pointer;
+     transform: scale(0.9);
+         border-radius: 30px;
+       
+     
+        }
+
+
+     
+    .Titulo{
+        border: 2px solid black;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:100px;
+        background-color: rgb(18, 32, 233);
+         font: bold 20px Tahoma;
+         width: 60%;
+    }
+
+    .caja01{ 
+        
+        border: 2px solid black;
+        border-radius: .9rem;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:400%;
+        background-color: rgb(243, 14, 110);
+         font: bold 40px Tahoma;
+         width: 60%;
+           transition: all 0.5s linear;
+         cursor: pointer;
+     transform: scale(0.9);
+         border-radius: 30px;
+       
+     
+        }
+
+
+     
+    .Titulo01{
+        border: 2px solid black;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:100px;
+        background-color: rgb(231, 13, 13);
+         font: bold 20px Tahoma;
+         width: 60%;
+    }
+
+    .caja02{ 
+        
+        border: 2px solid black;
+        border-radius: .9rem;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:400%;
+        background-color: #008080;
+         font: bold 40px Tahoma;
+         width: 60%;
+           transition: all 0.5s linear;
+         cursor: pointer;
+     transform: scale(0.9);
+         border-radius: 30px;
+       
+     
+        }
+
+
+     
+    .Titulo02{
+        border: 2px solid black;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:100px;
+        background-color: #008000;
+         font: bold 20px Tahoma;
+         width: 60%;
+    }
+
+
+    .caja03{ 
+        
+        border: 2px solid black;
+        border-radius: .9rem;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:400%;
+        background-color: #0b53f0;
+         font: bold 40px Tahoma;
+         width: 60%;
+           transition: all 0.5s linear;
+         cursor: pointer;
+     transform: scale(0.9);
+         border-radius: 30px;
+       
+     
+        }
+
+
+     
+    .Titulo03{
+        border: 2px solid black;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:100px;
+        background-color: #f0ec0a;
+         font: bold 20px Tahoma;
+         width: 60%;
+    }
+
+
+    .caja04{ 
+        
+        border: 2px solid black;
+        border-radius: .9rem;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:400%;
+        background-color: #fa8807;
+         font: bold 40px Tahoma;
+         width: 60%;
+           transition: all 0.5s linear;
+         cursor: pointer;
+     transform: scale(0.9);
+         border-radius: 30px;
+       
+     
+        }
+
+
+     
+    .Titulo04{
+        border: 2px solid black;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:100px;
+        background-color: #c20af0;
+         font: bold 20px Tahoma;
+         width: 60%;
+    }
+
+    .caja05{ 
+        
+        border: 2px solid black;
+        border-radius: .9rem;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:400%;
+        background-color: #c42e08c2;
+         font: bold 40px Tahoma;
+         width: 60%;
+           transition: all 0.5s linear;
+         cursor: pointer;
+     transform: scale(0.9);
+         border-radius: 30px;
+       
+     
+        }
+
+
+     
+    .Titulo05{
+        border: 2px solid black;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:100px;
+        background-color: #05960534;
+         font: bold 20px Tahoma;
+         width: 60%;
+    }
+
+
+    .caja06{ 
+        
+        border: 2px solid black;
+        border-radius: .9rem;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:400%;
+        background-color: #09fa6dc2;
+         font: bold 40px Tahoma;
+         width: 60%;
+           transition: all 0.5s linear;
+         cursor: pointer;
+     transform: scale(0.9);
+         border-radius: 30px;
+       
+     
+        }
+
+
+     
+    .Titulo06{
+        border: 2px solid black;
+        padding: 15px;
+        text-align: center;
+        margin: 20px auto;
+        width:100px;
+        background-color: #0955f834;
+         font: bold 20px Tahoma;
+         width: 60%;
+    }

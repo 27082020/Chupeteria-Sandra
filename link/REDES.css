@@ -1,0 +1,23 @@
+
+
+.redes{
+    height: 00px;
+}
+.redes img{
+    height: center;
+    width: auto;
+    float: right;
+    cursor: pointer;
+    border-style: solid;
+        border-radius: .9rem;
+        padding: 5px;
+        text-align: center;
+        transition: all 0.5s linear;
+    
+}
+
+.redes img :hover{
+    transform: scale(0.9);
+    border-radius: 30px;
+    
+}
